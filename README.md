@@ -22,6 +22,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ativei/ativei/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/ativei/ativei/blob/output/github-snake-dark.svg)
 
 ###
